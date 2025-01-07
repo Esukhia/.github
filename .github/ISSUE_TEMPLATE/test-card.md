@@ -1,53 +1,24 @@
----
-name: Test Card
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+## Write Test Title Here
+*Test owner*: @_
 
----
+## HYPOTHESIS
+*We believe that* [user]: 
+*Need* [function]: 
+*In order to* [benefit]: 
+*This will increase our North Star Metric by* [number]: 
 
-## ཚོད་ལྟའི་བྱང་བུ།
+## TEST
+*To verify that, we will:*
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
 
-**ཚོད་ལྟའི་མིང་།:** ་་་་་་་་་་་་
-**དུས་བཅད།:** ་་་་་་་་་་་་
-**ཚོད་ལྟ་བྱེད་མཁན།:** ་་་་་་་་་་་་
-**དུས་ཡུན།:** ་་་་་་་་་་་་
+## METRIC
+*And measure:*
+- [ ] Metric 1
+- [ ] Metric 2
 
-**༡༽ ཚོད་དཔག**
-ང་ཚོས་ཚོད་དཔག་བྱས་པ་ནི་་་་་་་་་་
-
-
-**༢ ༽ ཚོད་ལྟ།**
-དེ་ར་སྤྲོད་བྱེད་པར་ང་ཚོས་་་་་་་་་་
-
-
-**༣ ༽ འཇལ་བྱེད།**
-ང་ཚོས་ཚད་འཇལ་རྒྱུ་ནི་་་་་་་་་་
-
-
-**༤ ༽ ཚད་འཛིན།**
-བདེན་པ་ར་སྤྲོད་ཀྱི་ཚད་འཛིན་ས་ནི་་་་་་་་་་
-
-## Test Card
-
-**Test name:**.........
-**Deadline:**.........
-**Assigned to:**.........
-**Duration:**.........
-
-
-**1 HYPOTHESIS**
-We believe that.........
-
-
-**2 TEST**
-To verify that, We will.........
-
-
-**3 METRIC**
-And measure.........
-
-
-**4 CRITERIA**
-We are right if.........
+## CRITERIA
+*We are right if:*
+- [ ] Success criteria 1
+- [ ] Success criteria 2
