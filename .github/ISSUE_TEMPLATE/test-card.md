@@ -1,13 +1,19 @@
+---
+name: Test Card
+about: Describe this issue template's purpose here.
+title: ''
+labels: Test card
+assignees: ''
+
+---
+
 ## Write Test Title Here
 *Test owner*: @_
 
 ## HYPOTHESIS
 *We believe that* [user]: 
-
 *Need* [function]: 
-
 *In order to* [benefit]: 
-
 *This will increase our North Star Metric by* [number]: 
 
 ## TEST
