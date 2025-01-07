@@ -3,8 +3,11 @@
 
 ## HYPOTHESIS
 *We believe that* [user]: 
+
 *Need* [function]: 
+
 *In order to* [benefit]: 
+
 *This will increase our North Star Metric by* [number]: 
 
 ## TEST
